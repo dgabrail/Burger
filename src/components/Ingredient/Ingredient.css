@@ -1,0 +1,18 @@
+.Ingredient img {
+  width: 100px;
+  height: 100px;
+}
+
+.Ingredient {
+  border: 1px solid black;
+  width: 40%;
+}
+
+.Ingredient button {
+  margin-top: 10px;
+}
+
+.Ingredient span {
+  display: block;
+  font-size: 20px;
+}
