@@ -1,5 +1,7 @@
 .Ingredients {
-  width: 40%;
+  padding-top: 20px;
+  width: 500px;
+  margin: auto;
   display: flex;
   flex-wrap: wrap;
 }
